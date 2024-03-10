@@ -1,5 +1,17 @@
 # Changelog
 
+## [10.13.0](https://github.com/LazyVim/LazyVim/compare/v10.12.1...v10.13.0) (2024-03-10)
+
+
+### Features
+
+* **lualine:** add more hl options to pretty_path ([#2687](https://github.com/LazyVim/LazyVim/issues/2687)) ([d3761ed](https://github.com/LazyVim/LazyVim/commit/d3761eded733b5f00e1ee14fef3fb2ce0dfb7dd0))
+
+
+### Bug Fixes
+
+* **terraform-extra:** Drop unnecessary commentstring config for terraform ([#2680](https://github.com/LazyVim/LazyVim/issues/2680)) ([b12e742](https://github.com/LazyVim/LazyVim/commit/b12e7424580d4b524755eec33006d4517fa3182e))
+
 ## [10.12.1](https://github.com/LazyVim/LazyVim/compare/v10.12.0...v10.12.1) (2024-03-08)
 
 
